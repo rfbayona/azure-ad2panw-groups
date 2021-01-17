@@ -1,4 +1,4 @@
-#! /usr/bin/env python3 - Randy
+#! /usr/bin/env python3 - Randy bay
 
 import requests
 import urllib
